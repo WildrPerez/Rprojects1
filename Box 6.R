@@ -1,5 +1,6 @@
 # The BHSBVAR package was created by Paul Richardson in January, 2020
 # And it is based on the MATLAB programs created by Baumeister and Hamilton (2015/2017/2018).
+# Modified to replicate stimations to the Peruvian Case
 
 ############################################################
 
